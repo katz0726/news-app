@@ -11,7 +11,7 @@
 	"jsxBracketSameLine": false,
 	"arrowParens": "avoid",
 	"rangeStart": 0,
-	"parser": "none",
+	"parser": "typescript",
 	"filepath": "none",
 	"requirePragma": false,
 	"insertPragma": false,
@@ -19,4 +19,4 @@
 	"htmlWhitespaceSensitivity": "css",
 	"vueIndentScriptAndStyle": false,
 	"endOfLine": "auto"
-	}
+}
