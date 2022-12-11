@@ -12,10 +12,19 @@
     "expo": "~47.0.6",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-dom": "^18.1.0",
+    "react-native": "^0.70.5",
+    "react-native-web": "^0.18.10"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@types/react-native": "^0.70.8",
+    "@typescript-eslint/eslint-plugin": "^5.46.0",
+    "@typescript-eslint/parser": "^5.46.0",
+    "eslint": "^8.29.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-react": "^7.31.11",
+    "prettier": "2.8.1"
   },
   "private": true
 }
